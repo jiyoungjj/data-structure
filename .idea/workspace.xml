@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27237d4e-5fea-469f-97af-8afe3ec963a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/hello.md" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hello.md" afterDir="false" />
-    </list>
+    <list default="true" id="27237d4e-5fea-469f-97af-8afe3ec963a6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +14,13 @@
         <entry file="file://$PROJECT_DIR$/.idea/hello.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
+<<<<<<< HEAD
               <first_editor relative-caret-position="437">
                 <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+=======
+              <first_editor relative-caret-position="320">
+                <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+>>>>>>> version3
               </first_editor>
               <second_editor />
             </state>
@@ -114,11 +117,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="634" y="0" width="651" height="686" extended-state="0" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="3733000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="634" y="0" width="651" height="686" extended-state="0" />
+>>>>>>> version3
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5176471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -171,8 +181,13 @@
     <entry file="file://$PROJECT_DIR$/.idea/hello.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+<<<<<<< HEAD
           <first_editor relative-caret-position="437">
             <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+=======
+          <first_editor relative-caret-position="320">
+            <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+>>>>>>> version3
           </first_editor>
           <second_editor />
         </state>
